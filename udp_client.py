@@ -10,5 +10,7 @@ def start_udp_client():
     pass
 
 
+# the lines below are our entrypoint - you can run this script by running
+# `python udp_client.py` from the command line.
 if __name__ == "__main__":
     start_udp_client()
